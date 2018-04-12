@@ -1,0 +1,3 @@
+https://beta.developer.spotify.com/dashboard/applications/4289cc2ec77b4c439c1507ccb63a19fc
+
+http://www.omdbapi.com/?i=tt3896198&apikey=3de35233
